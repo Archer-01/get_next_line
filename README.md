@@ -17,8 +17,8 @@ char	*get_next_line(int fd);
 ### Usage
 
 ```sh
-git clone https://github.com/Archer-01/GetNextLine.git
-cd GetNextLine
+git clone https://github.com/Archer-01/get_next_line.git
+cd get_next_line
 touch main.c
 ```
 ```c
